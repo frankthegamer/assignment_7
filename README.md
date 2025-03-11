@@ -1,5 +1,5 @@
 ## How to use
-1. Enter an integer to specify the number of elements in the array
+1. Enter an integer to specify the number of elements in the array.
            The program will create an array with that number of elements each ranging with values 0-100.
    
 2. Enter the name of the file to write array to
