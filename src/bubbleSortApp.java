@@ -30,7 +30,7 @@ public class bubbleSortApp{
         scanner.close();
     }
 
-    public static int[] createRandomArray(int arrayLength){      // creates array of random ints 1-100
+    public static int[] createRandomArray(int arrayLength){      // creates array of random ints 0-100
         int[] randomArray = new int[arrayLength];
         for (int i = 0; i < arrayLength; i++) {
             randomArray[i] = (int) (Math.random() * 100) + 1; 
